@@ -1,0 +1,70 @@
+student@IT075 MINGW64 ~/Desktop/gitFolder (master)
+$ history
+    1  git --version 2.32.0.windows.1
+    2  git --version
+    3  git init
+    4  git status
+    5  git config --global--list
+    6  git config --global -list
+    7  git config --global --list
+    8  git --version
+    9  git init
+   10  git status
+   11  git config --global --list
+   12  git config
+   13  git config --global user.name 'fatima'
+   14  git config --global --list
+   15  git config --global user.email 'fatimasolkar23@gmail.com'
+   16  git config --global --list
+   17  mkdir gitFolder
+   18  cd gitFolder/
+   19  clear
+   20  touch one.txt two.txt three.txt
+   21  vi one.tx
+   22  vi one.txt
+   23  vi two.txt
+   24  clear
+   25  git --version
+   26  git init
+   27  git status
+   28  git add one.txt
+   29  git status
+   30  git add *.txt
+   31  git status
+   32  git --help
+   33  git branch --help
+   34  git branch --help
+   35  clear
+   36  cd ..
+   37  git clone https://github.com/Ashish1692/sampleRepo.git
+   38  clear
+   39  cd gitFolder/
+   40  git branch create firstBranch
+   41  git branch --h
+   42  git branch --help
+   43  clear
+   44  git branch new
+   45  git branch -l
+   46  git checkout new
+   47  ls
+   48  vi one.txt
+   49  git merge new master
+   50  git status
+   51  git add one.txt
+   52  git status
+   53  git commit -m "one.txt edited.."
+   54  clear
+   55  git merge --h
+   56  git merge --help
+   57  git checkout master
+   58  vi one.txt
+   59  clear
+   60  git config --global --l
+   61  git config --global --list
+   62  clear
+   63  git config --global user.name "Ashish"
+   64  git config --global user.email "ashishmoghe6@gmail.com"
+   65  git config --global --list
+   66  git history
+   67  history
+
