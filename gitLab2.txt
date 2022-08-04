@@ -146,3 +146,6 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 student@IT075 MINGW64 ~/Desktop/gitFolder (master)
 $
 after it will ask for authenticate with your account
+
+
+branching commands with their ss
